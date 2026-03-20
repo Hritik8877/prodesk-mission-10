@@ -41,10 +41,8 @@ As applications grow, managing state using `useState` and prop drilling becomes 
 
 ##  Project Structure
 
-```
 ![](image.png)
 
----
 
 ## ⚙️ Installation & Setup
 
